@@ -1,2 +1,4 @@
 # Intro3Scrolls
-made with c++ and allegro5
+Made with c++ (codeblock) and allegro5
+It's messy and not optimized.
+It was made just for fun.
