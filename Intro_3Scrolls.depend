@@ -1,0 +1,145 @@
+# depslib dependency file v1.0
+1442144437 source:e:\codeblock\intro_3scrolls\main.cpp
+	<stdio.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegro5/allegro_native_dialog.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5\allegro_audio.h>
+	<allegro5\allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	"deszcz.h"
+	"scroll.h"
+	"bars.h"
+	"box.h"
+
+1441711622 source:e:\codeblock\intro_3scrolls\deszcz.cpp
+	<allegro5/allegro_primitives.h>
+	"deszcz.h"
+
+1441711622 e:\codeblock\intro_3scrolls\deszcz.h
+
+1441801594 e:\codeblock\intro_3scrolls\scroll.h
+
+1441801586 source:e:\codeblock\intro_3scrolls\scroll.cpp
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"scroll.h"
+	<math.h>
+	<string>
+
+1441711622 source:e:\codeblock\intro_3scrolls\bars.cpp
+	<allegro5/allegro_primitives.h>
+	"bars.h"
+
+1441711622 e:\codeblock\intro_3scrolls\bars.h
+
+1441711622 source:e:\codeblock\intro_3scrolls\box.cpp
+	<allegro5/allegro_primitives.h>
+	<math.h>
+	"box.h"
+
+1441711622 e:\codeblock\intro_3scrolls\box.h
+
+1441715222 source:f:\kody zrodlowe\z pendrivea - kody zrodlowe\codeblock\intro_3scrolls\box.cpp
+	<allegro5/allegro_primitives.h>
+	<math.h>
+	"box.h"
+
+1441715222 f:\kody zrodlowe\z pendrivea - kody zrodlowe\codeblock\intro_3scrolls\box.h
+
+1441715222 source:f:\kody zrodlowe\z pendrivea - kody zrodlowe\codeblock\intro_3scrolls\deszcz.cpp
+	<allegro5/allegro_primitives.h>
+	"deszcz.h"
+
+1441715222 f:\kody zrodlowe\z pendrivea - kody zrodlowe\codeblock\intro_3scrolls\deszcz.h
+
+1447778440 source:f:\kody zrodlowe\z pendrivea - kody zrodlowe\codeblock\intro_3scrolls\main.cpp
+	<stdio.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegro5/allegro_native_dialog.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5\allegro_audio.h>
+	<allegro5\allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	"deszcz.h"
+	"scroll.h"
+	"bars.h"
+	"box.h"
+
+1441805194 f:\kody zrodlowe\z pendrivea - kody zrodlowe\codeblock\intro_3scrolls\scroll.h
+
+1441715222 f:\kody zrodlowe\z pendrivea - kody zrodlowe\codeblock\intro_3scrolls\bars.h
+
+1441805186 source:f:\kody zrodlowe\z pendrivea - kody zrodlowe\codeblock\intro_3scrolls\scroll.cpp
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"scroll.h"
+	<math.h>
+	<string>
+
+1441715222 source:f:\kody zrodlowe\z pendrivea - kody zrodlowe\codeblock\intro_3scrolls\bars.cpp
+	<allegro5/allegro_primitives.h>
+	"bars.h"
+
+1441715222 source:i:\cb\intro_3scrolls\bars.cpp
+	<allegro5/allegro_primitives.h>
+	"bars.h"
+
+1441715222 i:\cb\intro_3scrolls\bars.h
+
+1441715222 source:i:\cb\intro_3scrolls\box.cpp
+	<allegro5/allegro_primitives.h>
+	<math.h>
+	"box.h"
+
+1441715222 i:\cb\intro_3scrolls\box.h
+
+1441715222 source:i:\cb\intro_3scrolls\deszcz.cpp
+	<allegro5/allegro_primitives.h>
+	"deszcz.h"
+
+1441715222 i:\cb\intro_3scrolls\deszcz.h
+
+1467462905 source:i:\cb\intro_3scrolls\scroll.cpp
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"scroll.h"
+	<math.h>
+	<string>
+
+1467462905 i:\cb\intro_3scrolls\scroll.h
+
+1467462381 source:i:\cb\intro_3scrolls\main.cpp
+	<stdio.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegro5/allegro_native_dialog.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5\allegro_audio.h>
+	<allegro5\allegro_acodec.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	"deszcz.h"
+	"scroll.h"
+	"bars.h"
+	"box.h"
+
